@@ -5,4 +5,4 @@ https://asif-ui875.github.io/C-ui/mb.js
 
 https://asif-ui875.github.io/C-ui/set.js
 
-https://asif-ui875.github.io/C-ui/modset.js
+https://asif-ui875.github.io/C-ui/reset.js
