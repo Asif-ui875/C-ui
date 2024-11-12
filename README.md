@@ -9,3 +9,5 @@ https://asif-ui875.github.io/C-ui/reset.js
 
 
 https://asif-ui875.github.io/C-ui/trash.js
+
+https://asif-ui875.github.io/C-ui/garbage.js
