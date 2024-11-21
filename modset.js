@@ -1,9 +1,0 @@
-
-    { 
-      "name": "John"
-    }
-  
-      { 
-      "name": "Asif"
-    }
-  
